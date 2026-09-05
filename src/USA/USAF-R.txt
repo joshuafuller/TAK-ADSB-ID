@@ -20,6 +20,7 @@
 "ae01ca","a-f-A-M-F-R-Z","63-9792","RC-135V","USAF #ISR",""
 "ae01cb","a-f-A-M-F-R-Z","62-4135","RC-135W","USAF #ISR",""
 "ae01cc","a-f-A-M-F-R-Z","62-4131","RC-135W","USAF #ISR",""
+"ae01ce","a-f-A-M-F-R-Z","62-4134","RC-135W","USAF #ISR",""
 "ae01cf","a-f-A-M-F-R-Z","62-4132","RC-135W","USAF #ISR",""
 "ae01d0","a-f-A-M-F-R-Z","62-4139","RC-135W","USAF #ISR",""
 "ae01d1","a-f-A-M-F-R-Z","62-4130","RC-135W","USAF #ISR",""

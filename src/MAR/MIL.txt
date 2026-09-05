@@ -20,6 +20,7 @@
 "0200b3","a-f-A-M-F-T","CN-BTD","T-6A","MAR AF #trainer",""
 "0200b6","a-f-A-M-F-T","CN-BTG","T-6A","MAR AF #trainer",""
 "0200bb","a-f-A-M-F-T","CN-BTJ","T-6A","MAR AF #trainer",""
+"0200c1","a-f-A-M-F-T","CN-BTP","T-6A","Moroccan AF",""
 "0200cc","a-f-A-M-F-U-M","CN-MVI","B737-8KB","MAR AF",""
 "0200ee","a-f-A-M-F-U-H","CN-ATN","CL-415T","MAR AF",""
 "020109","a-f-A-M-F-U-H","CN-ATP","CL-415T","Moroccan AF #FIRE",""

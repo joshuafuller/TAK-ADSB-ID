@@ -6,3 +6,4 @@ tools/changevip.sh
 tools/SAR.sh
 cotdb*
 NEW.txt
+.new_cache.json

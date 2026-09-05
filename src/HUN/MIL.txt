@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"4713bf","a-f-A-M-F-R","HA-HML","DA-62 MPP","HUN AF #ISR",""
 "473c01","a-f-A-M-F-F","30","JAS-39C","HUN AF",""
 "473c02","a-f-A-M-F-F","31","JAS-39C","HUN AF",""
 "473c03","a-f-A-M-F-F","32","JAS-39C","HUN AF",""

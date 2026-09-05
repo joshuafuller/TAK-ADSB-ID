@@ -27,7 +27,7 @@
 "320028","a-f-A-M-H-U-M","MM81949","AW.139","ITA Guardia di Finanza",""
 "320029","a-f-A-M-H-U-M","MM81950","AW.139","ITA Guardia di Finanza",""
 "32002e","a-f-A-M-F-U-M","MM62311","ATR 72-212A","ITA Guardia di Finanza",""
-"320031","a-f-A-C-H-U-M","MM81962","AW.169","ITA Guardia di Finanza",""
+"320031","a-f-A-M-H-U-M","MM81962","AW.169","ITA Guardia di Finanza",""
 "320038","a-f-A-M-H-U-M","MM81964","AW.139","ITA Guardia di Finanza",""
 "320039","a-f-A-M-H-U-M","MM81965","AW.169","ITA Guardia di Finanza",""
 "32003a","a-f-A-M-H-U-M","MM81966","AW.169 UH-169A","ITA Guardia di Finanza",""
